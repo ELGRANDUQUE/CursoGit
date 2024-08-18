@@ -1,5 +1,7 @@
 /*Css document*/
 
 body {
-	background-color:#00F
+	background-color:#00F;
+	font-weight:bold;
+	color:#f00;
 }
